@@ -1,0 +1,13 @@
+body {
+    background-color:
+     rgb(64, 163, 45);
+
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Helvetica, sans-serif;
+     line-height: 1.5;
+     font-size: 14px;
+}
+
+.title {
+    font-size: 45px;
+    color:rgb(129, 212, 46)
+}
