@@ -1,0 +1,53 @@
+
+
+What to remember:
+public class "Name of the class" {}
+public static void main(String[] args){}
+System.out.println("Text");
+Always a semicolom - ;
+
+= - Zuweisung
+== - Test
+
+Variables:
+
+int for numbers
+double - Deziemalzahlen
+boolean - true/false
+
+guests--;  the same as : guests = guests -1;
+
+While Scheife:
+while (value == 1){} - wiederholt sich unendlich;
+
+
+Random:
+ Random random = new Random();
+        for (int i = 0; i < 10; i++) {
+            int zufallsZahl = random.nextInt(6) + 1;  - Nur so startet das Programm bei 1 (in anderem Fall - 0)
+            System.out.println(zufallsZahl);
+        }
+
+
+Java Methoden:
+public static void Deine_Methode("was sie dazu brauch, zB:"int zahl1, int zahl2){
+  wie sie arbeitet || was macht, zB:      int summe = zahl1 + zahl2;
+		  	          System.out.println(summe);
+    }
+
+*spart Zeit: ein mal benutzen = nur ein mal ausrufen
+
+
+Array:
+int[] Name_des_Array= new int [Länge des Arrays];
+*int - nur falls Array aus Zahlen besteht  
+
+
+
+Objektorientierung
+Klasse (sucht Gemeinsamkeiten für zB Autos) = Atrribute("Aussehen") + Methoden(Verhalten)
+Objekt (ein konkretes Auto zB): Attribute haben bestimmte Werte; "ausgehen" von Klassen
+(Methoden sind gleich bei Klassen und Objekte)
+
+
+
